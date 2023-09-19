@@ -7,8 +7,6 @@ public class Program {
 		
 		UI.printBoard(chessMatch.getPieces());
 		
-		
-		//System.out.println(position.toString());
 	}
 
 }

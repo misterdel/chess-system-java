@@ -13,4 +13,10 @@ public class Pawn extends ChessPiece {
 	public String toString() {
 		return "p";
 	}
+
+	@Override
+	public boolean[][] possibleMoves() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
